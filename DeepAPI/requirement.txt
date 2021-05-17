@@ -1,6 +1,0 @@
-fastapi
-uvicorn[standard]
-python-multipart
-numpy
-opencv-python
-sklearn==0.24.1
